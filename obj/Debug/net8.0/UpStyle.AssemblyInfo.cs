@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpStyle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6af6ed7dddc685d1051a21518759852c45a39b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ada89c0f48dfdff2cb82a09c6f262e739d4b5c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpStyle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpStyle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
